@@ -1,6 +1,13 @@
 package com.masa.trade.user;
 
 public class Shareholder {
+	
+	private String name;
+	
+	public Shareholder(String id){
+		name = id;
+	}
+	
 	public void makeRequest() {
 		
 	}
