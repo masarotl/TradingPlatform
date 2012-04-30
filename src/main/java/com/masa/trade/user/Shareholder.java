@@ -5,6 +5,10 @@ public class Shareholder {
 		
 	}
 	
+	public void thisIsReallyCool(){
+		
+	}
+	
 	public static void main(String... args) {
 		System.out.println("Shareholder class");
 	}
