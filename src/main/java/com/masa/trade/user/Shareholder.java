@@ -11,7 +11,16 @@ public class Shareholder {
 	public void makeRequest() {
 
 	}
+	
+	public void aliNeedsHelp() {
+		
+	}
 
+	public void iLikeThis(String name){
+		
+		System.out.println("Mark Sucks");
+	}
+	
 	public void thisIsReallyCool() {
 
 	}
