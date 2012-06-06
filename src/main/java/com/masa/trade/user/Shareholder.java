@@ -11,6 +11,10 @@ public class Shareholder {
 	public void makeRequest() {
 
 	}
+	
+	public void aliNeedsHelp() {
+		
+	}
 
 	public void thisIsReallyCool() {
 
