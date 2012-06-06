@@ -18,7 +18,7 @@ public class Shareholder {
 
 	public void iLikeThis(String name){
 		
-		System.out.println("Mark Sucks");
+		System.out.println("Ali is Cool");
 	}
 	
 	public void thisIsReallyCool() {
